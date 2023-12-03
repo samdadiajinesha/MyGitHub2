@@ -1,0 +1,520 @@
+.project-figma-app-child {
+  position: absolute;
+  top: 1058.5px;
+  left: 220.5px;
+  border-top: 1px dashed var(--color-black);
+  box-sizing: border-box;
+  width: 311px;
+  height: 1px;
+}
+.design3,
+.project-brief,
+.workflow4 {
+  position: absolute;
+  top: 989px;
+  left: 376px;
+  font-size: var(--h2-light-size);
+  display: inline-block;
+  text-align: right;
+  width: 207px;
+  height: 37px;
+}
+.design3,
+.project-brief {
+  top: 987px;
+  left: 211px;
+  width: 144px;
+}
+.project-brief {
+  top: 1143px;
+  left: 221px;
+  font-size: var(--font-size-6xl);
+  width: 160px;
+}
+.project-figma-app-inner,
+.project-figma-app-item {
+  position: absolute;
+  top: 773px;
+  left: -16px;
+  background-color: var(--color-lightcyan);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1559px;
+  height: 89px;
+}
+.project-figma-app-inner {
+  top: 4454px;
+  left: 0;
+  background-color: var(--color-lightgoldenrodyellow);
+  width: 1543px;
+}
+.me-in-a3,
+.me-in-a4 {
+  position: absolute;
+  top: 804px;
+  left: 325px;
+  display: inline-block;
+  width: 135px;
+  height: 18px;
+}
+.me-in-a4 {
+  top: 4484px;
+  left: 475px;
+}
+.once-despised-my {
+  margin: 0;
+}
+.once-despised-my-container {
+  position: absolute;
+  top: 796px;
+  left: 460px;
+  font-weight: 300;
+  text-align: center;
+  display: inline-block;
+  width: 742px;
+  height: 36px;
+}
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 26px;
+  background-color: #efefef;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 419px;
+  height: 419px;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 41.98%;
+  width: 49.38%;
+  top: 22.22%;
+  right: 16.06%;
+  bottom: 35.8%;
+  left: 34.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-group {
+  position: absolute;
+  top: 263px;
+  left: 393px;
+  width: 419px;
+  height: 419px;
+}
+.embarked-on-a,
+.to-make-a-container {
+  position: absolute;
+  font-weight: 300;
+  display: inline-block;
+}
+.embarked-on-a {
+  top: 4485px;
+  left: 627px;
+  text-align: center;
+  width: 628px;
+  height: 36px;
+}
+.to-make-a-container {
+  top: 1235px;
+  left: 221px;
+  width: 239px;
+  height: 149px;
+}
+.high-fidelity,
+.low-fidelity,
+.mid-fidelity,
+.prototype-should-have-container,
+.prototyping {
+  position: absolute;
+  top: 3176px;
+  left: 136px;
+  font-weight: 300;
+  display: inline-block;
+  width: 100px;
+  height: 18px;
+}
+.high-fidelity,
+.mid-fidelity,
+.prototype-should-have-container,
+.prototyping {
+  left: 427px;
+}
+.high-fidelity,
+.prototype-should-have-container,
+.prototyping {
+  top: 3172px;
+  left: 685px;
+}
+.prototype-should-have-container,
+.prototyping {
+  top: 3197px;
+  left: 1172px;
+}
+.prototype-should-have-container {
+  top: 1235px;
+  left: 602px;
+  width: 255px;
+  height: 112px;
+}
+.project-figma-app-child1,
+.project-figma-app-child2 {
+  position: absolute;
+  top: 795px;
+  left: 287px;
+  width: 28px;
+  height: 33px;
+}
+.project-figma-app-child2 {
+  top: 4475px;
+  left: 437px;
+}
+.project-figma-app-child3 {
+  position: absolute;
+  top: 1233.5px;
+  left: 538.5px;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 115px;
+}
+.project-figma-app-child4 {
+  position: absolute;
+  top: 1673px;
+  left: 1100.5px;
+  border-radius: 50%;
+  background-color: var(--color-thistle);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 36.7px;
+  height: 50.6px;
+  transform: rotate(26.34deg);
+  transform-origin: 0 0;
+}
+.ideation1 {
+  position: absolute;
+  top: 1685px;
+  left: 1138px;
+  font-size: var(--font-size-6xl);
+  text-align: right;
+  display: inline-block;
+  width: 105px;
+  height: 37px;
+}
+.using-different-apps-container {
+  position: absolute;
+  top: 1756px;
+  left: 1086px;
+  font-weight: 300;
+  display: inline-block;
+  width: 338px;
+  height: 198px;
+}
+.project-figma-app-child5 {
+  position: absolute;
+  top: 2435px;
+  left: 1100.5px;
+  border-radius: 50%;
+  background-color: var(--color-lightgoldenrodyellow);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 36.7px;
+  height: 50.6px;
+  transform: rotate(26.34deg);
+  transform-origin: 0 0;
+}
+.process-work1 {
+  position: absolute;
+  top: 2447px;
+  left: 1133px;
+  font-size: var(--font-size-6xl);
+  text-align: right;
+  display: inline-block;
+  width: 178px;
+  height: 37px;
+}
+.using-app-consciously {
+  margin-bottom: 0;
+}
+.using-app-consciously-understa {
+  margin: 0;
+  padding-left: var(--padding-xl);
+}
+.using-app-consciously-container {
+  position: absolute;
+  top: 2518px;
+  left: 1085px;
+  font-size: var(--font-inherit);
+  font-weight: 300;
+  font-family: var(--font-inherit);
+  display: inline-block;
+  width: 274px;
+  height: 144px;
+}
+.project-figma-app-child6,
+.project-figma-app-child7,
+.project-figma-app-child8 {
+  position: absolute;
+  top: 1446.5px;
+  left: -0.5px;
+  border-top: 1px dashed var(--color-black);
+  box-sizing: border-box;
+  width: 1531px;
+  height: 1px;
+}
+.project-figma-app-child7,
+.project-figma-app-child8 {
+  top: 2163.5px;
+}
+.project-figma-app-child8 {
+  top: 3297.5px;
+}
+.project-figma-app-child9 {
+  position: absolute;
+  top: 3489px;
+  left: 1107.5px;
+  border-radius: 50%;
+  background-color: var(--color-lightcyan);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 36.7px;
+  height: 50.6px;
+  transform: rotate(26.34deg);
+  transform-origin: 0 0;
+}
+.final-design1 {
+  position: absolute;
+  top: 3501px;
+  left: 1140px;
+  font-size: var(--font-size-6xl);
+  text-align: right;
+  display: inline-block;
+  width: 158px;
+  height: 37px;
+}
+.helping-each-other-container,
+.i-wanted-to {
+  position: absolute;
+  top: 3588px;
+  left: 1208px;
+  font-weight: 300;
+  display: inline-block;
+  width: 274px;
+  height: 234px;
+}
+.helping-each-other-container {
+  left: 912px;
+}
+.screenshot-2023-11-30-114205-11 {
+  position: absolute;
+  top: 186px;
+  left: 887px;
+  width: 289px;
+  height: 552px;
+  object-fit: cover;
+}
+.image-1-icon,
+.summary-icon,
+.summary-low-icon,
+.summary-mid-icon {
+  position: absolute;
+  top: 2300px;
+  left: 81px;
+  width: 231px;
+  height: 819px;
+  object-fit: cover;
+}
+.image-1-icon,
+.summary-icon,
+.summary-mid-icon {
+  left: 620px;
+  width: 230px;
+}
+.image-1-icon,
+.summary-mid-icon {
+  left: 351px;
+  width: 231px;
+}
+.image-1-icon {
+  top: 2696px;
+  left: 913px;
+  width: 538px;
+  height: 467px;
+}
+.clinical-documents-icon,
+.whatsapp-image-2023-11-30-at-3 {
+  position: absolute;
+  top: 1796px;
+  left: 535px;
+  width: 133px;
+  height: 288px;
+  object-fit: cover;
+}
+.clinical-documents-icon {
+  top: 3884px;
+  left: 915px;
+  width: 231px;
+  height: 499px;
+}
+.cycle-tracking-icon,
+.landing-page1,
+.respiratory-icon {
+  position: absolute;
+  top: 3440px;
+  left: 83px;
+  width: 266px;
+  height: 943px;
+  object-fit: cover;
+}
+.landing-page1,
+.respiratory-icon {
+  left: 579px;
+  width: 219px;
+  height: 472px;
+}
+.respiratory-icon {
+  left: 366px;
+  width: 196px;
+  height: 943px;
+}
+.whatsapp-image-2023-11-30-at-31,
+.whatsapp-image-2023-11-30-at-32,
+.whatsapp-image-2023-11-30-at-33 {
+  position: absolute;
+  top: 1503px;
+  left: 150px;
+  width: 132px;
+  height: 286px;
+  object-fit: cover;
+}
+.whatsapp-image-2023-11-30-at-32,
+.whatsapp-image-2023-11-30-at-33 {
+  left: 343px;
+}
+.whatsapp-image-2023-11-30-at-33 {
+  left: 536px;
+}
+.icon,
+.setup-icon,
+.whatsapp-image-2023-11-30-at-34,
+.whatsapp-image-2023-11-30-at-35 {
+  position: absolute;
+  top: 1796px;
+  left: 150px;
+  width: 132px;
+  height: 286px;
+  object-fit: cover;
+}
+.icon,
+.setup-icon,
+.whatsapp-image-2023-11-30-at-35 {
+  left: 343px;
+}
+.icon,
+.setup-icon {
+  top: 3922px;
+  left: 579px;
+  width: 213px;
+  height: 461px;
+}
+.setup-icon {
+  top: 3884px;
+  left: 1216px;
+  width: 232px;
+  height: 499px;
+}
+.project-figma-app-child10,
+.project-figma-app-child11,
+.project-figma-app-child12 {
+  position: absolute;
+  top: 989px;
+  left: 653.1px;
+  border-radius: 50%;
+  background-color: var(--color-lightgoldenrodyellow);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 24.9px;
+  height: 34.3px;
+  transform: rotate(26.34deg);
+  transform-origin: 0 0;
+}
+.project-figma-app-child11,
+.project-figma-app-child12 {
+  left: 689.7px;
+  background-color: var(--color-lightcyan);
+}
+.project-figma-app-child12 {
+  left: 619.2px;
+  background-color: var(--color-thistle);
+}
+.group-child1,
+.group-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.group-child1 {
+  background-color: var(--color-thistle);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1559px;
+  height: 89px;
+}
+.group-child2 {
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  width: 70px;
+  height: 70px;
+}
+.vector-icon2 {
+  position: absolute;
+  height: 48.14%;
+  width: 49.43%;
+  top: 13.57%;
+  right: 12%;
+  bottom: 38.29%;
+  left: 38.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-div,
+.group-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 70px;
+  height: 70px;
+}
+.group-wrapper {
+  top: 8px;
+  left: 828px;
+}
+.rectangle-container {
+  position: absolute;
+  top: 47px;
+  left: -16px;
+  width: 1559px;
+  height: 89px;
+}
+.project-figma-app-child13 {
+  position: absolute;
+  top: 77.6px;
+  left: 220.1px;
+  width: 29.2px;
+  height: 40.8px;
+  cursor: pointer;
+}
+.project-figma-app {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 4800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--body-text-size);
+  color: var(--color-black);
+  font-family: var(--body-text);
+}
